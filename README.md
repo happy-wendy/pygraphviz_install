@@ -1,9 +1,7 @@
 # pygraphviz_install
 问题：
-
-1、pygraphviz在win10 64位下的pip和镜像安装都不支持；
-
-2、graphviz官网提供的graphviz2.38不是64位的；
+1. pygraphviz在win10 64位下的pip和镜像安装都不支持；
+2. graphviz官网提供的graphviz2.38不是64位的；
 
 解决方案：
 
